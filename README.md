@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yeswanth Rajakumar (Yesh)</h1>
-<h4 align="center">I am a Software developer with robust Problem-solving skills and proven experience in creating and designing Quality Software solutions in a test-driven environment ,who also had a craze for designing . Looking for opportunities to work with people who are really intended to create an impact through digital transformation and add value to our society.</h4>
+<h1 align="left">Hi 👋, I'm Yeswanth Rajakumar (Yesh)</h1>
+<h4 align="left">I am a Software developer with robust Problem-solving skills and proven experience in creating and designing Quality Software solutions in a test-driven environment ,who also had a craze for designing . Looking for opportunities to work with people who are really intended to create an impact through digital transformation and add value to our society.</h4>
 
 - 👨‍💻 All of my projects are available at [https://yeswanthrajakumar.github.io/](https://yeswanthrajakumar.github.io/)
 
-- 💬 Ask me about **Software Design & Development**
+- 💬 Ask me about **Software Craftsmanship & Development**
 
 - 📫 How to reach me **yeswanthjayanthi@gmail.com**
 
