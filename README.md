@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yeswanth Rajakumar (Yash)</h1>
-<h4 align="left">I am a Software developer with robust Problem-solving skills and proven experience in creating and designing Quality Software solutions in a test-driven environment ,who also had a craze for Aesthetics and Designing.Open to work with people who are really intended to create an impact through digital transformation and add value to our society.</h4>
+<h4 align="left">I am a Software developement Engineer with robust Problem-solving skills and proven experience in creating and designing Quality Software solutions in a test-driven environment ,who also had a craze for Aesthetics and Designing.Open to work with people who are really intended to create an impact through digital transformation and add value to our society.</h4>
 
 - 👨‍💻 All of my projects are available at [https://yeswanthrajakumar.github.io/](https://yeswanthrajakumar.github.io/)
 
